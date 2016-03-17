@@ -16,8 +16,9 @@
     "assets" : {
 	
         "update1" : {
-            "path" : "res/HelloWorld.png",
-            "md5" : "...",
+            "path" : "res/HelloWorld.zip",
+            "md5" : "887F4A9BDE425C033342FA8711B3E34F",
+			"compressed" : true,
             "group" : "1"
         }
     },
