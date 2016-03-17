@@ -1,7 +1,7 @@
 {
-	"packageUrl" : "https://raw.githubusercontent.com/ruozigongzuoshi/testjsassets/master/",
+	"packageUrl" : "https://raw.githubusercontent.com/ruozigongzuoshi/testjsassets/master/res/",
 	"remoteManifestUrl" : "https://raw.githubusercontent.com/ruozigongzuoshi/testjsassets/master/res/project.manifest",
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/ruozigongzuoshi/testjsassets/master/res/version.manifest",
-	"version" : "1.1",
-	"engineVersion" : "3.0 dev"
+	"version" : "1.0.1",
+	"engineVersion" : "3.10"
 }
