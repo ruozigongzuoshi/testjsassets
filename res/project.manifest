@@ -14,7 +14,7 @@
     "assets" : {
 	
         "update1" : {
-            "path" : "src/app.zip",
+            "path" : "app.zip",
             "md5" : "E8601086DEA082B895897E07A71D74F6",
 			"compressed" : true,
             "group" : "1"
